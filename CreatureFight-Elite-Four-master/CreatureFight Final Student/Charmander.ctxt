@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Charmander
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Charmander\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=w
+comment1.target=Charmander(greenfoot.World)
+comment1.text=\r\n\ Charmander\ is\ the\ constructor\ for\ Charmander\ type\ Objects\r\n\ \r\n\ @param\ w\ is\ a\ reference\ to\ the\ world\ that\ Charmander\ gets\ added\ to\r\n\ @return\ An\ object\ of\ type\ Charmander\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ method\ that\ is\r\n\ run\ during\ every\ act\ cycle\r\n\ of\ the\ scenario\r\n\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=idx
+comment3.target=void\ attack(int)
+comment3.text=\r\n\ attack\ takes\ away\ health\ from\ the\ enemy\ Creature\ using\ one\ of\r\n\ two\ predefined\ attacks\r\n\ \r\n\ @param\ idx\ is\ the\ index\ of\ the\ attack\ option\ selected\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ attackAnimation()
+comment4.text=\r\n\ attack\ animation\ is\ the\ animation\ when\ a\ creature\ uses\ a\ attack\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=idx
+comment5.target=void\ switchCreature(int)
+comment5.text=\r\n\ switchCreature\ switches\ to\ a\ diffrent\ creature\ when\ dead\ or\ called\ from\ the\ enu\ bar\r\n\ also\ makes\ an\ animation\ that\ looks\ like\ switching\ creatures\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ switchedIn()
+comment6.text=\r\n\ switchedIn\ is\ a\ method\ called\ when\ this\ creature\ is\ chosen\ from\ the\ menu\ bar\ of\ a\ another\ creature\r\n\ this\ method\ makes\ a\ animation\ in\ which\ the\ creature\ pops\ in\ to\ the\ place\ of\ the\ old\ creature\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=7
